@@ -24,4 +24,3 @@ btn.pack(pady=20)
 
 
 app.mainloop()
-
