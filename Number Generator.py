@@ -7,7 +7,6 @@ VER = "1.0"
 app = tk.Tk()
 app.title("Random Number Generator v" +VER)
 app.geometry("500x250")
-app.iconbitmap(icon)
 
 font_style = tkFont.Font(family="Segoe UI Bold", size=50)
 font_style2 = tkFont.Font(family="Segoe UI Bold", size=40)
