@@ -2,7 +2,6 @@ import tkinter as tk
 import tkinter.font as tkFont
 import random
 
-icon = r"C:\Icons\Head.ico"
 VER = "1.0"
 
 app = tk.Tk()
@@ -25,3 +24,4 @@ btn.pack(pady=20)
 
 
 app.mainloop()
+
